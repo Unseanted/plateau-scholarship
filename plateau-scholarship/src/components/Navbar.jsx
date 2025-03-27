@@ -4,7 +4,9 @@ const Navbar = () => {
   return (
     <nav className="p-4 bg-gray-200 flex items-center justify-between fixed w-full h-16 top-0 z-10">
       {/* Logo on the Left */}
-      <div className="text-xl font-bold">Logo</div>
+      <div className="flex items-center space-x-2">
+        <img src="/logo.jpeg" alt="logo" className="h-10 w-auto" />
+      </div>
 
       {/* Centered Navigation Links */}
       <ul className="flex gap-x-6 font-light absolute left-1/2 transform -translate-x-1/2 cursor-pointer">
