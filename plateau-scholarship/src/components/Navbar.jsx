@@ -20,6 +20,9 @@ const Navbar = () => {
         <li className="hover:text-blue-600">
           <Link href="/students">Students</Link>
         </li>
+        <li className="hover:text-blue-600">
+          <Link href="/dashboard">Dashboard</Link>
+        </li>
       </ul>
 
       {/* Buttons on the Right */}
