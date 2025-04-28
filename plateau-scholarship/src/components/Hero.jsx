@@ -12,15 +12,15 @@ const ImageSlider = () => {
 		<div className="py-24 px-6 bg-gradient-to-r from-amber-500 to-green-900 text-white">
 			<div className="max-w-3xl mx-auto text-center">
 				<h2 className="text-4xl md:text-4xl font-bold text-black mb-4">
-					Plateau Scholarship Program
+					Scholarship Program
 				</h2>
 				<p className="text-lg text-white/90 font-mono leading-relaxed">
-					The Plateau Scholarship Program is more than just financial aid—it is a
+					The Scholarship Program is more than just financial aid—it is a
 					lifeline for students striving to achieve their dreams of higher education.
-					Designed with deep concern for the future of Plateau State’s youth,
+					Designed with deep concern for the future of the State’s youth,
 					this program aims to ease the burden of tuition fees, accommodation,
 					and academic expenses, ensuring that no deserving student is left behind due to financial constraints.
-					Through this initiative, the Plateau State Government and educational foundations stand in
+					Through this initiative, the State Government and educational foundations stand in
 					unwavering support of students, empowering them to focus on their studies,
 					build their futures, and create a lasting impact on their communities.
 				</p>
@@ -60,7 +60,7 @@ const ImageSlider = () => {
 			</Swiper>
 			<div>
 				<p className="flex justify-center py-6 text-sm">
-					&#169; Plateau State Students Scholarship Platform. All rights reserved. 2025
+					&#169; Students Scholarship Platform. All rights reserved. 2025
 				</p>
 			</div>
 		</div>
